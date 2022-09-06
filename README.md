@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RobinMango
-- 👀 I’m interested in Java and unit tests
-- 🌱 I’m currently learning blockchain and smart contracts
+- 👀 I love Java
+- 🌱 I promote unit and integration tests and support clean coding techniques.
 
 <!---
 RobinMango/RobinMango is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
